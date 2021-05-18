@@ -1,0 +1,40 @@
+p {
+  color: #53354a;
+  font-family: "Raleway", sans-serif;
+}
+ul {
+  color: #53354a;
+  font-family: arial;
+  font-size: 20px;
+  text-decoration: none;
+}
+#current-temperature {
+  font-size: 80px;
+  font-family: "Google Sans", arial, sans-serif;
+}
+.degree {
+  font-size: 20px;
+  position: relative;
+  top: -34px;
+}
+.card {
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+  margin: 40px 0;
+  padding: 40px 0;
+  max-width: 70%;
+  border-radius: 30px;
+}
+.current-city {
+  font-family: "Roboto", sans-serif;
+  color: #2b2e4a;
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+.information {
+  font-family: "Comfortaa", cursive;
+  color: #282846;
+}
+
+.days {
+  text-align: center;
+}
